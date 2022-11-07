@@ -1,0 +1,10 @@
+Project Name: Give you application auto-deploy superpowers
+Name: Cyril Baah
+
+Links
+
+Github link : https://github.com/CyrilBaah/cdond-c3-projectstarter
+S3 bucket link : http://udapeople-b6d8dc3.s3-website-eu-west-1.amazonaws.com/#/employees
+Cloudfront link : https://d18myn7ont7b4k.cloudfront.net/#/employees
+backend link: http://ec2-54-246-164-102.eu-west-1.compute.amazonaws.com:3030/api/status
+
